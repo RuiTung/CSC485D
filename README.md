@@ -1,0 +1,2 @@
+# CSC485D
+This project is exploring relationship between money and the football team performance by using Tableau as the implementation tool. The .twb file is the detailed implementation file for the entire project based on four football leagues (England, German, Italy and Spain). For the usage guideline, please watch the video first to get help, as well as, the introduction and main idea for the entire project.
